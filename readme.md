@@ -80,6 +80,20 @@
 
 ###
 
+<h3 align="left">My setup</h3>
+
+###
+
+<div align="left">
+  <img src="https://raw.githubusercontent.com/github/explore/main/topics/archlinux/archlinux.png" height="40" alt="arch linux logo"  />
+  <img width="12" />
+  <img src="https://raw.githubusercontent.com/hyprwm/Hyprland/main/assets/hyprland.png" height="40" alt="hyprland logo"  />
+  <img width="12" />
+  <img src="https://github.com/kovidgoyal/kitty/raw/master/logo/kitty.png" height="40" alt="kitty terminal logo"  />
+</div>
+
+###
+
 <div align="center">
   <img src="https://lanyard.cnrad.dev/api/1457473109828309064?hideActivity=true&idleMessage=I'm%20not%20currently%20doing%20anything!&showDisplayName=true" width="400" alt="Discord Profile" />
   <img src="https://lanyard.cnrad.dev/api/1457473109828309064?hideProfile=true&hideTimestamp=false&idleMessage=I'm%20not%20currently%20doing%20anything!" alt="Discord Activity" />
