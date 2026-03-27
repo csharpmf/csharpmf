@@ -12,6 +12,8 @@
 
 <h3 align="left">My tech stack laungages / tools.</h3>
 
+Dev @ Archer | Building a cloud platform for containerized apps | Cloud infrastructure, orchestration & scalability enthusiast
+
 ###
 
 <div align="left">
@@ -89,8 +91,6 @@
   <img width="12" />
   <img src="https://github.com/kovidgoyal/kitty/raw/master/logo/kitty.png" height="40" alt="kitty terminal logo"  />
 </div>
-
-**Dev @ Archer | Building a cloud platform for containerized apps | Cloud infrastructure, orchestration & scalability enthusiast**
 
 ###
 
