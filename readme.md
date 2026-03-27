@@ -90,6 +90,8 @@
   <img src="https://github.com/kovidgoyal/kitty/raw/master/logo/kitty.png" height="40" alt="kitty terminal logo"  />
 </div>
 
+**Dev @ Archer | Building a cloud platform for containerized apps | Cloud infrastructure, orchestration & scalability enthusiast**
+
 ###
 
 <div align="center">
