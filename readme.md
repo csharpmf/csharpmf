@@ -95,8 +95,8 @@ Dev @ Archer | Building a cloud platform for containerized apps | Cloud infrastr
 ###
 
 <div align="center">
-  <img src="https://lanyard.cnrad.dev/api/1479186523071975454?hideActivity=true&idleMessage=I'm%20not%20currently%20doing%20anything!&showDisplayName=true" width="400" alt="Discord Profile" />
-  <img src="https://lanyard.cnrad.dev/api/1479186523071975454?hideProfile=true&hideTimestamp=false&idleMessage=I'm%20not%20currently%20doing%20anything!" alt="Discord Activity" />
+  <img src="https://lanyard.cnrad.dev/api/1484973167662600192?hideActivity=true&idleMessage=I'm%20not%20currently%20doing%20anything!&showDisplayName=true" width="400" alt="Discord Profile" />
+  <img src="https://lanyard.cnrad.dev/api/1484973167662600192?hideProfile=true&hideTimestamp=false&idleMessage=I'm%20not%20currently%20doing%20anything!" alt="Discord Activity" />
 </div>
 
 ###
