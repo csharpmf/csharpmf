@@ -88,7 +88,7 @@ const me = {
 | <img src="https://raw.githubusercontent.com/github/explore/main/topics/archlinux/archlinux.png" height="18" /> | **distro** | Arch Linux `btw` |
 | <img src="https://raw.githubusercontent.com/hyprwm/Hyprland/main/assets/hyprland.png" height="18" /> | **compositor** | Hyprland `wayland` |
 | <img src="https://raw.githubusercontent.com/kovidgoyal/kitty/master/logo/kitty.png" height="18" /> | **terminal** | Kitty `gpu-rendered` |
-| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vim/vim-original.svg" height="18" /> | **editor** | Vim / VS Code `depends on mood` |
+| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vim/vim-original.svg" height="18" /> | **editor** | Vim / VS Code `depends on project` |
 
 ---
 
