@@ -1,10 +1,10 @@
 <div align="center">
 
 ```
-archer@cloud:~$ cat README.md
+csmf@arch:~$ cat README.md
 ```
 
-# Dev @ Archer
+# Dev
 
 *building a **cloud platform** for containerized apps*
 *cloud infrastructure · orchestration · scalability*
@@ -18,7 +18,7 @@ archer@cloud:~$ cat README.md
 ```js
 // init
 const me = {
-  role:   "Dev @ Archer",
+  role:   "Developer",
   focus:  "containerized cloud platforms",
   stack:  ["infra", "orchestration", "scale"],
   os:     "arch btw",
@@ -93,5 +93,5 @@ const me = {
 ---
 
 <div align="center">
-  <sub>archer@cloud:~/readme $</sub>
+  <sub>csmf@arch:~/readme $</sub>
 </div>
